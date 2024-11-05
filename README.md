@@ -15,6 +15,6 @@
 - ```Adet``` özelliği torbadaki öğe sayısını gösterir.
 - ```void Ekle<T>(T deger)``` metodu torbaya ekler.
 - ```T Cek<T>()``` metodu torbadan rastgele seçer ve siler.
-
+- ```where``` keyword'ü
 
 
